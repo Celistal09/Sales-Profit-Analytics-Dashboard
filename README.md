@@ -31,11 +31,11 @@ The dashboard allows filtering by **Year** and **Country** to dynamically update
 
 ## 📸 Dashboard Preview
 ### Overall Dashboard
-!(Overall-Dashboard.png)
+![Overall Dashboard](Overall-Dashboard.png)
 ### Filtered View
-Filtererd-view.png
+![Filtered view](Filtererd-view.png)
 ### Filtered View by Country
-By-country.png
+![Filtered view](By-country.png)
 
 ## Author
 
