@@ -29,12 +29,14 @@ The dashboard allows filtering by **Year** and **Country** to dynamically update
 * Average profit margin is ~10%.
 * Seasonal trends visible in monthly analysis.
 
-## Files
-
-* `Sales_Profit_Dashboard.pbix` – Power BI dashboard
-* `dashboard.png` – Dashboard screenshot
-* `sales_data.csv` – Dataset used
+## 📸 Dashboard Preview
+### Overall Dashboard
+Overall-Dashboard.png
+### Filtered View
+Filtererd-view.png
+### Filtered View by Country
+By-country.png
 
 ## Author
 
-Rahul Kumar – Aspiring Data Analyst
+Rahul – Aspiring Data Analyst
